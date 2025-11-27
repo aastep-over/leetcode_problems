@@ -6,6 +6,7 @@ from typing import List
 
 class Solution:
     def naiveGenerate(self, numRows: int) -> List[List[int]]:
+        
         # Base Cases
         if numRows <= 0:
             return "numRows should be atleast 1!"
