@@ -1,3 +1,4 @@
+
 # TODO: Given an integer numRows, return the first numRows of Pascal's triangle.
 # Note: naiveGenerate performed slightly better than generator maybe because of slow computation of combinations function
 
