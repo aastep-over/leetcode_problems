@@ -1,3 +1,4 @@
+
 # TODO: Given the root of a binary tree, return its maximum depth.
 
 from typing import Optional
